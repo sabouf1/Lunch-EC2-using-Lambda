@@ -65,5 +65,4 @@ For support, please refer to the official AWS and Terraform documentation or the
 
 ## Author
 
-[Your Name]
-
+Said B.
